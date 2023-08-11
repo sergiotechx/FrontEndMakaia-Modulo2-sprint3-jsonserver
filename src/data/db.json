@@ -29,7 +29,7 @@
         "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691780782/findy/KimJS/KimJS1_l8nm8o.png",
         "followers": [{"id":1},{"id":2},{"id":4},{"id":5}],
         "following": [{"id":1},{"id":2},{"id":4},{"id":5}], 
-        "posts": [] 
+        "posts": [{"id":3}] 
       },
       {
         "id": 4,
@@ -39,7 +39,7 @@
         "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781164/findy/LalisaM/LalisaM1_kx3obv.png",
         "followers": [{"id":1},{"id":2},{"id":3},{"id":5}],
         "following": [{"id":1},{"id":2},{"id":3},{"id":5}], 
-        "posts": [] 
+        "posts": [{"id":4}] 
       },
       {
         "id": 5,
@@ -49,7 +49,7 @@
         "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781501/findy/MiloL/MiloL1_rwgxop.png",
         "followers": [{"id":1},{"id":2},{"id":3},{"id":4}],
         "following": [{"id":1},{"id":2},{"id":3},{"id":4}], 
-        "posts": [] 
+        "posts": [{"id":5}] 
       }
 
      
@@ -61,7 +61,7 @@
         "image": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691774283/findy/JennieK/jennie2_li7nc3.png",
         "caption": "¡Mi primera foto en esta red social!",
         "likes": [{"id":2},{"id":3},{"id":4},{"id":5}],
-        "comments": []
+        "comments": [{"id":1}]
       },
       {
         "id": 2,
@@ -69,7 +69,7 @@
         "image": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691780437/findy/RoseanneP/Roseanne2_vgrwyj.png",
         "caption": "Come saludable",
         "likes": [{"id":1},{"id":3},{"id":4},{"id":5}],
-        "comments": []
+        "comments": [{"id":2}]
       }
       ,
       {
@@ -78,7 +78,7 @@
         "image": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691780782/findy/KimJS/KimJS2_iz5sth.png",
         "caption": "Soy la unica e inigualable",
         "likes": [{"id":1},{"id":2},{"id":4},{"id":5}],
-        "comments": []
+        "comments": [{"id":3}]
       },
       {
         "id": 4,
@@ -86,7 +86,7 @@
         "image": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781164/findy/LalisaM/LalisaM2_rbcdw6.png",
         "caption": "Sigue el camino de tu corazón laisduhgoauishdiauhsdoiuhasd",
         "likes": [{"id":1},{"id":2},{"id":3},{"id":4}],
-        "comments": []
+        "comments": [{"id":4}]
       }
       ,
       {
@@ -95,7 +95,7 @@
         "image": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781501/findy/MiloL/MiloL2_rwq1xc.png",
         "caption": "iuoiuyoiuyouyoiuyoiuiuyuy luypiouypoiuypiypiouyiuyiuysdcsdcsdcsdcsdc",
         "likes": [{"id":1},{"id":2},{"id":3},{"id":4}],
-        "comments": []
+        "comments": [{"id":5}]
       }
     ],
     "comments": [
