@@ -1,0 +1,37 @@
+{
+ 
+    "users": [
+      {
+        "id": 1,
+        "username": "usuario1",
+        "name": "Usuario Uno",
+        "email": "usuario1@example.com",
+        "avatar": "link_a_la_imagen.jpg",
+        "followers": [],
+        "following": [], 
+        "posts": [] 
+      }
+     
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "userId": 1,
+        "image": "link_a_la_imagen.jpg",
+        "caption": "¡Mi primera foto en esta red social!",
+        "likes": [],
+        "comments": []
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "postId": 1,
+        "userId": 2,
+        "text": "¡Hermosa foto!",
+        "timestamp": "timestamp_aqui"
+      }
+      
+    ]
+  
+}
