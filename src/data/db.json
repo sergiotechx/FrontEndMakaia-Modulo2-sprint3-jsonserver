@@ -9,16 +9,16 @@
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691774283/findy/JennieK/jennie1_waf9ws.png",
       "followers": [
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "following": [
@@ -37,7 +37,7 @@
       ],
       "posts": [
         {
-          "id": 1
+          "postId": 1
         }
       ]
     },
@@ -50,27 +50,27 @@
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691780438/findy/RoseanneP/Roseanne1_q3e40c.png",
       "followers": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "following": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
           "id": 5
@@ -78,7 +78,7 @@
       ],
       "posts": [
         {
-          "id": 2
+          "postId": 2
         }
       ]
     },
@@ -91,35 +91,35 @@
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691780782/findy/KimJS/KimJS1_l8nm8o.png",
       "followers": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "following": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "posts": [
         {
-          "id": 3
+          "postId": 3
         }
       ]
     },
@@ -132,35 +132,35 @@
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781164/findy/LalisaM/LalisaM1_kx3obv.png",
       "followers": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "following": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "posts": [
         {
-          "id": 4
+          "postId": 4
         }
       ]
     },
@@ -173,35 +173,35 @@
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781501/findy/MiloL/MiloL1_rwgxop.png",
       "followers": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         }
       ],
       "following": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         }
       ],
       "posts": [
         {
-          "id": 5
+          "postId": 5
         }
       ]
     }
@@ -215,21 +215,21 @@
       "timestamp": 2460168.714670,
       "likes": [
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "comments": [
         {
-          "id": 1
+          "commentId": 1
         }
       ]
     },
@@ -241,21 +241,21 @@
       "timestamp": 2460168.714671,
       "likes": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "comments": [
         {
-          "id": 2
+          "comentId": 2
         }
       ]
     },
@@ -267,21 +267,21 @@
       "timestamp": 2460168.714672,
       "likes": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 4
+          "userId": 4
         },
         {
-          "id": 5
+          "userId": 5
         }
       ],
       "comments": [
         {
-          "id": 3
+          "commentId": 3
         }
       ]
     },
@@ -293,21 +293,21 @@
       "timestamp": 2460168.714673,
       "likes": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         }
       ],
       "comments": [
         {
-          "id": 4
+          "commentId": 4
         }
       ]
     },
@@ -319,21 +319,21 @@
       "timestamp": 2460168.714674,
       "likes": [
         {
-          "id": 1
+          "userId": 1
         },
         {
-          "id": 2
+          "userId": 2
         },
         {
-          "id": 3
+          "userId": 3
         },
         {
-          "id": 4
+          "userId": 4
         }
       ],
       "comments": [
         {
-          "id": 5
+          "commentId": 5
         }
       ]
     }
