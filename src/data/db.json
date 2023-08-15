@@ -6,7 +6,8 @@
       "password": "123",
       "name": "Jennie Kim",
       "email": "1@correo.com",
-      "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691774283/findy/JennieK/jennie1_waf9ws.png",
+      "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691774283/findy/JennieK/jennie2_li7nc3.png",
+      "poster": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691774283/findy/JennieK/jennie1_waf9ws.png",
       "followers": [
         {
           "userId": 2
@@ -48,6 +49,7 @@
       "name": "Roseanne Park",
       "email": "2@correo.com",
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691780438/findy/RoseanneP/Roseanne1_q3e40c.png",
+      "poster":"https://res.cloudinary.com/dtjp5b2qr/image/upload/v1692137182/findy/RoseanneP/RoseeanePPoster_hnjrmz.jpg",
       "followers": [
         {
           "userId": 1
@@ -89,6 +91,7 @@
       "password": "123",
       "email": "3@correo.com",
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691780782/findy/KimJS/KimJS1_l8nm8o.png",
+      "poster":"https://res.cloudinary.com/dtjp5b2qr/image/upload/v1692137469/findy/KimJS/kimjPoster_fx84vw.png",
       "followers": [
         {
           "userId": 1
@@ -130,6 +133,7 @@
       "password": "123",
       "email": "4@correo.com",
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781164/findy/LalisaM/LalisaM1_kx3obv.png",
+      "poster":"https://res.cloudinary.com/dtjp5b2qr/image/upload/v1692137710/findy/LalisaM/LalisaMPoster_mk9cv8.png",
       "followers": [
         {
           "userId": 1
@@ -171,6 +175,7 @@
       "name": "Milo Lee",
       "email": "5@correo.com",
       "avatar": "https://res.cloudinary.com/dtjp5b2qr/image/upload/v1691781501/findy/MiloL/MiloL1_rwgxop.png",
+      "poster":"https://res.cloudinary.com/dtjp5b2qr/image/upload/v1692137867/findy/MiloL/MiloLPoster_neew1x.jpg",
       "followers": [
         {
           "userId": 1
