@@ -355,28 +355,28 @@
       "id": 2,
       "postId": 2,
       "userId": 1,
-      "text": "¡Hermosa foto!",
+      "text": "¡Hermosa publicación",
       "timestamp": 2460168.714670
     },
     {
       "id": 3,
       "postId": 3,
       "userId": 2,
-      "text": "¡Hermosa foto!",
+      "text": "¡wow!",
       "timestamp": 2460168.714670
     },
     {
       "id": 4,
       "postId": 4,
       "userId": 2,
-      "text": "¡Hermosa foto!",
+      "text": "¡lo mejor de día!",
       "timestamp": 2460168.714670
     },
     {
       "id": 5,
       "postId": 5,
       "userId": 2,
-      "text": "¡Hermosa foto!",
+      "text": "¡eres la mejor!",
       "timestamp": 2460168.714670
     }
   ]
